@@ -1,0 +1,65 @@
+*,*:before,*:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bigboy{
+    width: 1000px;
+    height: 1000px;
+    margin: 10px auto;
+}
+.smallboy1, .smallboy3{
+    width: 100%;
+    height: 40%;
+    display: flex;
+}
+.smallboy2{
+    width: 100%;
+    height: 20%;
+    display: flex;
+}
+
+body{
+    background-color: blueviolet;
+}
+
+.color1{
+/*    row 1 col 1*/
+    background-color: red;
+}
+.color2{
+    /*//zöld row1-col3*/
+    background-color: green;
+}
+
+.color3{
+/*     kék row3 col 1*/
+    background-color: blue;
+}
+.color4{
+/*    sárga row3 col 3*/
+    background-color: yellow;
+}
+.color1, .color2, .color3, .color4{
+    width: 40%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border: 1px black dashed;
+}
+.jatekter1, .jatekter4{
+    /*row1-col2*/
+    width: 20%;
+    height: 100%;
+}
+
+.jatekter2, .jatekter3{
+    width: 40%;
+    height: 100%;
+}
+.win{
+    width: 20%;
+    height: 100%;
+}
+
