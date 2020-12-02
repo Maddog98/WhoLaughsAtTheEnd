@@ -19,13 +19,13 @@
         <div>
             <h1>Kezdetek</h1>
         </div>
-        <div class="bigboy">
+        <div class="bigboy container">
             <div class="smallboy1">
-                <div class="color1 szinek"></div> 
+                <div class="color1 "></div> 
 <!--                piros  row1-col1 -->
                 <div class="jatekter1"></div>
                 <!-- row1-col2 -->
-                <div class="color2 szinek"></div> 
+                <div class="color2 "></div> 
 <!--                //zöld row1-col3-->
             </div>
             <div class="smallboy2">
@@ -36,12 +36,12 @@
                 <div class="jatekter3"></div>
 <!--                row2 col3-->
             </div>
-            <div class="smallboy3 szinek">
+            <div class="smallboy3 ">
                 <div class="color3"></div> 
 <!--                // kék row3 col 1-->
                 <div class="jatekter4"></div>
 <!--                row3 col 2-->
-                <div class="color4 szinek"></div> 
+                <div class="color4 "></div> 
 <!--                //sárga row3 col 3-->
             </div> 
         </div>
