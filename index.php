@@ -23,8 +23,33 @@
 <!--                //zöld row1-col3-->
             </div>
             <div class="smallboy2">
-                <div class="jatekter2"></div>
+                <div class="jatekter2">
 <!--                row2 col1-->
+<div class="j2_1">
+<input class="j2_1_1" type="submit" value="" />
+<input class="j2_1_2"type="submit" value="" />
+<input class="j2_1_3"type="submit" value="" />
+<input class="j2_1_4"type="submit" value="" />
+<input class="j2_1_5"type="submit" value="" />
+<input class="j2_1_6"type="submit" value="" />
+</div>
+<div class="j2_2">            
+<input class="j2_2_1"type="submit" value="" />
+<input class="j2_2_2"type="submit" value="" />
+<input class="j2_2_3"type="submit" value="" />
+<input class="j2_2_4"type="submit" value="" />
+<input class="j2_2_5"type="submit" value="" />
+<input class="j2_2_6"type="submit" value="" />
+</div>
+<div class="j2_3">
+<input class="j2_3_1"type="submit" value="" />
+<input class="j2_3_6"type="submit" value="" />
+<input class="j2_3_6"type="submit" value="" />
+<input class="j2_3_6"type="submit" value="" />
+<input class="j2_3_6"type="submit" value="" />
+<input class="j2_3_6"type="submit" value="" />
+</div>
+</div>
                 <div class="win"></div>
 <!--                row2 col2-->
                 <div class="jatekter3"></div>
