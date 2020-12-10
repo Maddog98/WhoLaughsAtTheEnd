@@ -16,8 +16,9 @@
         </div>
         <div>
             <a href="belepIndex.php">Belépési felület</a>
-            <button type="button" onclick="alert('Kezdjük...')" class="btn btn-default">Kezdés!</button>
-            <button type="button" onclick="alert('Dobtam')" class="btn btn-default">Dobás</button>
+<!--            ezek itt inkább submit-es dolgok legyen mert így tudunk jól kommunikálni-->
+<!--            <button type="button" onclick="alert('Kezdjük...')" class="btn btn-default">Kezdés!</button>
+            <button type="button" onclick="alert('Dobtam')" class="btn btn-default">Dobás</button>-->
         </div>
         <div class="bigboy container">
             <div class="smallboy1">

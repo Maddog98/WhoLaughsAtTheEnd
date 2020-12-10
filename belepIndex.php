@@ -12,23 +12,23 @@
     </head>
     <body>
 
-        <form action="/action_page.php" method="post">
+        <form action="index.php" method="post">
             <div class="container">
                 <label for="uname"><b>Felhasználó név: </b></label>
                 <input type="text" placeholder="Kérelek adj meg egy jatékos nevet" name="uname" required>
-                <label for="psw"><b>Válaszott szín: </b></label>
-                <form>
+                <label for="collors"><b>Válaszott szín: </b></label>
                     <select id="szinek" name="szinek">
                         <option value="piros">Piros</option>
                         <option value="kek">Kék</option>
                         <option value="sarga">Sárga</option>
                         <option value="zold">Zöld</option>
                     </select>
-                </form>
-                
-                <div class="btn">
-                    <a href="index.php">Belépés</a>
-                </div>
+<!--                //ez nem jó el kell küldeni egy SUBMIT segítségével az adatokat az adatbázisnak-->
+<!--                űrlap legyen az egész  -->
+<!--                <div class="btn">-->
+<!--                    <a href="index.php">Belépés</a>-->
+<!--                </div>-->
+                    <input type="submit" value="Belépés" name="belep">
             </div>
         </form>
         <?php
