@@ -29,6 +29,7 @@
                         <div class="piros"></div>
                         <div class="piros"></div> 
                     </div>
+                    
                 </div> 
 
                 <div class="jatekter1"></div>
