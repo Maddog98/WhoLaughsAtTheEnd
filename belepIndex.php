@@ -46,6 +46,8 @@
         </form>
 
         <?php
+        
+        //itt van az adazbázis kapcsolat 
         $kapcsolodas= mysqli_connect("localhost", "root", "");
         $db= mysqli_select_db($kapcsolodas, 'kinevetavegen');
         
